@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\New folder\\Masivi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{634EBFCB-BDB5-45D4-9542-1377BD17C672}|Zad 4\\Zad 4.csproj|c:\\users\\admin\\desktop\\new folder\\masivi\\zad 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634EBFCB-BDB5-45D4-9542-1377BD17C672}|Zad 4\\Zad 4.csproj|solutionrelative:zad 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF1D724-E998-47CA-AEA3-4E8587E8BDE7}|Zad 3\\Zad 3.csproj|c:\\users\\admin\\desktop\\new folder\\masivi\\zad 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF1D724-E998-47CA-AEA3-4E8587E8BDE7}|Zad 3\\Zad 3.csproj|solutionrelative:zad 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB2CC86-54C6-4FA8-82B1-7F12012C7097}|Zad 2\\Zad 2.csproj|c:\\users\\admin\\desktop\\new folder\\masivi\\zad 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB2CC86-54C6-4FA8-82B1-7F12012C7097}|Zad 2\\Zad 2.csproj|solutionrelative:zad 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3714D0B-23B0-4B20-91CC-E5E778BEECA9}|Zad1\\Zad1.csproj|c:\\users\\admin\\desktop\\new folder\\masivi\\zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3714D0B-23B0-4B20-91CC-E5E778BEECA9}|Zad1\\Zad1.csproj|solutionrelative:zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Masivi\\Zad 4\\Program.cs",
+              "RelativeDocumentMoniker": "Zad 4\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Masivi\\Zad 4\\Program.cs",
+              "RelativeToolTip": "Zad 4\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwE8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:19:15.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Masivi\\Zad 3\\Program.cs",
+              "RelativeDocumentMoniker": "Zad 3\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Masivi\\Zad 3\\Program.cs",
+              "RelativeToolTip": "Zad 3\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:11:07.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Masivi\\Zad 2\\Program.cs",
+              "RelativeDocumentMoniker": "Zad 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Masivi\\Zad 2\\Program.cs",
+              "RelativeToolTip": "Zad 2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:45:25.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Masivi\\Zad1\\Program.cs",
+              "RelativeDocumentMoniker": "Zad1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Masivi\\Zad1\\Program.cs",
+              "RelativeToolTip": "Zad1\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:44:43.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
